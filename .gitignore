@@ -1,0 +1,10 @@
+# ignore
+# www.default
+platforms/android/gen
+platforms/android/bin
+platforms/android/assets/www
+platforms/ios/build
+platforms/ios/www
+platforms/ios/TestPayPalMPL.xcodeproj/xcuserdata/
+.DS_Store
+
